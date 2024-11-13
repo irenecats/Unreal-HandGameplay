@@ -1,0 +1,586 @@
+[
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\CameraHandInput.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\CameraHandInput.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\EnumMap.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\HandInput.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\HandInput.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\HandInput.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\HandInputModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\HandInputModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandInput\\QuatUtil.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandInput.70.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\HandTrackingFilter.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\HandTrackingFilter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\HandTrackingFilter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\HandTrackingFilterComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\HandTrackingFilterComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\HandTrackingFilter\\QuatUtil.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandTrackingFilter.71.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\OculusHandPoseRecognition.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\FRecordHandPoseAction.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\FWaitForHandGestureAction.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\FWaitForHandPoseAction.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandGesture.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandGestureRecognizer.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandPose.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandPoseRecognizer.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandRecognitionFunctionLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\HandRecognitionGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\OculusHandPoseRecognitionModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Private\\PoseableHandComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandGesture.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandGestureRecognizer.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandPose.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandPoseRecognizer.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandRecognitionFunctionLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\HandRecognitionGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\OculusHandPoseRecognitionModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\Public\\PoseableHandComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusHandPoseRecognition.68.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\OculusInteractable.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\AimingActor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\HandGrabbingComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\Interactable.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\InteractableFunctionLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\InteractableSelector.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\OculusInteractableModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\TransformString.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Private\\TransformString.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\AimingActor.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\HandGrabbingComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\Interactable.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\InteractableFunctionLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\InteractablePose.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\InteractableSelector.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\Public\\OculusInteractableModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusInteractable.69.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\OculusThrowAssist.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Private\\OculusThrowAssistModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Private\\ThrowingComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Private\\TransformBufferComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Public\\OculusThrowAssistModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Public\\ThrowingComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusHandTools\\Source\\OculusThrowAssist\\Public\\TransformBufferComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusThrowAssist.72.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\OculusUtils.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Private\\ContinuousOverlapSphereComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Private\\OculusDeveloperTelemetry.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Private\\OculusUtilsLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Private\\OculusUtilsModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Public\\ContinuousOverlapSphereComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Public\\OculusDeveloperTelemetry.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Public\\OculusUtilsLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Plugins\\OculusUtils\\Source\\OculusUtils\\Public\\OculusUtilsModule.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\OculusUtils.73.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\HandGameplay.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\HandGameplay.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\HandGameplay.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\HandGameplayGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\HandGameplayGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\Source\\HandGameplay\\UpdatePermissions.xml",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jose\\Documents\\Unreal Projects\\Unreal-HandGameplay-main\\.vscode\\compileCommands_HandGameplay\\HandGameplay.1.rsp"
+		],
+		"directory": "C:\\Users\\jose\\Documents\\UE_5.4\\Engine\\Source"
+	}
+]
